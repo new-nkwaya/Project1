@@ -1,5 +1,17 @@
 #main {
 background-color: #FFFAF0;
 font-family: serif;
-text-align: center;
+}
+
+ul {
+list-style-type: none;
+overflow: hidden;
+background-color: #111111;
+    
+}
+li {
+    float: left;
+    padding: 16px;
+    color: #FFFFFF;
+    margin-left: 20px;
 }
